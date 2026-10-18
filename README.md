@@ -2,8 +2,8 @@
 
 Esta es mi primera portada en un proeycto de GIt y GIthub con Markdown.
 
-![UNAL](https://unal.edu.co)
-![DNED](https://dned.unal.edu.co)
+![Built Status](https://unal.edu.co)
+![License](https://dned.unal.edu.co)
 
 ## Tabla de contenidos
 
