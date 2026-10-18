@@ -7,7 +7,7 @@ Esta es mi primera portada en un proeycto de Git y Github con Markdown.
 
 
 
-[![DNED UNAL](https://shields.io)](https://web.unal.edu.co/direccion/estrategia-digital)
+[![DNED UNAL](https://shields.io)](https://unal.edu.co)
 
 
 ## Tabla de contenidos
