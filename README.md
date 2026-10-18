@@ -2,9 +2,14 @@
 
 Esta es mi primera portada en un proeycto de GIt y GIthub con Markdown.
 
+<<<<<<< HEAD
 
 
 ![Imagen Alejo](/img/tutorial/imagen-markdown.webp)
+=======
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+>>>>>>> 9524732 (act 2)
 
 ## Tabla de contenidos
 
