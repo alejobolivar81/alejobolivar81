@@ -1,9 +1,9 @@
-# Nombre del Proyecto
+# Proyecto Alejandro Bolivar GIT
 
-Breve descripción de lo que hace tu proyecto y por qué es útil.
+Esta es mi primera portada en un proeycto de GIt y GIthub con Markdown.
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![UNAL](https://unal.edu.co)
+![DNED](https://dned.unal.edu.co)
 
 ## Tabla de contenidos
 
