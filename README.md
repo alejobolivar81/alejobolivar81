@@ -6,10 +6,7 @@ Esta es mi primera portada en un proeycto de Git y Github con Markdown.
 ![Imagen Alejo](/img/Alejo.jpg)
 
 
-
-<a href="https://unal.edu.co" target="_blank">
-  <img src="https://shields.io" alt="DNED UNAL">
-</a>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fweb.unal.edu.co%2Fdireccion%2Festrategia-digital)
 
 
 ## Tabla de contenidos
