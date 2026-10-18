@@ -1,15 +1,10 @@
 # Proyecto Alejandro Bolivar GIT
 
-Esta es mi primera portada en un proeycto de GIt y GIthub con Markdown.
-
-<<<<<<< HEAD
+Esta es mi primera portada en un proeycto de Git y Github con Markdown.
 
 
 ![Imagen Alejo](/img/Alejo.jpg)
-=======
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
->>>>>>> 9524732 (act 2)
+
 
 
 [![DNED UNAL](https://shields.io)](https://web.unal.edu.co/direccion/estrategia-digital)
