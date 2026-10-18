@@ -7,7 +7,9 @@ Esta es mi primera portada en un proeycto de Git y Github con Markdown.
 
 
 
-[![DNED UNAL](https://shields.io)](https://unal.edu.co)
+<a href="https://unal.edu.co" target="_blank">
+  <img src="https://shields.io" alt="DNED UNAL">
+</a>
 
 
 ## Tabla de contenidos
